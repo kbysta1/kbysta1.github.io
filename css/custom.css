@@ -10,8 +10,8 @@ body {
   min-height: 50vh;
 }
 
-.starter-template-copylight {
-  text-align: center;
+.starter-template.copylight {
+  min-height: 0vh;
 }
 
 img {
