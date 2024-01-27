@@ -5,6 +5,7 @@ algorix.co, 54616, RESELLER
 applovin.com, fde58434ab84ae028839feee74a871e4, DIRECT
 appnexus.com, 7353, RESELLER
 facebook.com, 229424331556313, RESELLER, c3e20eee3f780d68
+facebook.com, 252815571991948, DIRECT, c3e20eee3f780d68
 facebook.com, 252815571991948, RESELLER, c3e20eee3f780d68
 google.com, pub-1690327593216828, DIRECT, f08c47fec0942fa0
 google.com, pub-2247149867882339, RESELLER
