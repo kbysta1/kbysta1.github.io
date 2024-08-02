@@ -290,6 +290,7 @@ chartboost.com,5eac93f341016b09ff0019b6,RESELLER
 chocolateplatform.com, 14637, RESELLER, 49a66ce31a704197
 connatix.com, 1652500284288994, RESELLER, 2af98acdee0e81ed
 connatix.com, 1713048496211545, RESELLER, 2af98acdee0e81ed
+connekt.ai, 1732945743, RESELLER
 connekt.ai, 7343318920, RESELLER
 connekt.ai,5585919044,RESELLER
 connekt.ai,8897271402,RESELLER
@@ -578,6 +579,7 @@ lijit.com, 473789, RESELLER, fafdf38b16bf6b2b
 lijit.com, 478192, RESELLER, fafdf38b16bf6b2b
 lijit.com, 483304, RESELLER, fafdf38b16bf6b2b
 lijit.com, 489963, RESELLER, fafdf38b16bf6b2b
+lijit.com, 491737, RESELLER, fafdf38b16bf6b2b
 lijit.com, 500520, RESELLER, fafdf38b16bf6b2b
 lijit.com, 503707, RESELLER, fafdf38b16bf6b2b
 lijit.com, 512908, RESELLER, fafdf38b16bf6b2b
@@ -625,6 +627,7 @@ markappmedia.site, 587286, RESELLER
 mars.media, 1010380, RESELLER, 8624339f102fb076
 mars.media, 1010421, RESELLER, 8624339f102fb076
 mars.media, 1010442, RESELLER
+mars.media, 1010442, RESELLER, 8624339f102fb076
 mars.media, 1010443, RESELLER, 8624339f102fb076
 mars.media, 1010450, RESELLER, 8624339f102fb076
 mars.media, 1010463, RESELLER
@@ -934,6 +937,7 @@ pubnative.net,1007249,RESELLER,d641df8625486a7b
 pubnative.net,1007303,RESELLER,d641df8625486a7b
 pubnative.net,1007475,RESELLER,d641df8625486a7b
 pubnative.net,1008061,RESELLER,d641df8625486a7b
+pubwise.io, 22376824, RESELLER, c327c91a93a7cdd3
 pubwise.io,52324626,RESELLER,c327c91a93a7cdd3
 reforge.in, 107, RESELLER
 reforge.in, 353, RESELLER
