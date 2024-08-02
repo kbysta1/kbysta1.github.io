@@ -1,4 +1,3 @@
-
 152media.info, 152M324, RESELLER
 152media.info,152M312,RESELLER
 9dotsmedia.com, 122262, RESELLER, 45ff185b4c4e857d
@@ -55,6 +54,7 @@ adform.com, 716, RESELLER
 adform.com,2967,RESELLER
 adiiix.com, 3de5db9, RESELLER
 adiiix.com,par-AA7B236BA32DD484C838E249362437B8,RESELLER
+adingo.jp, 31054, RESELLER
 admanmedia.com, 2050, RESELLER
 admanmedia.com, 2063, RESELLER
 admanmedia.com, 2153, RESELLER
@@ -1115,6 +1115,7 @@ signifad.com, 8227779878, RESELLER
 signifad.com, 8461547455, RESELLER
 signifad.com, 9043507172, RESELLER
 silvermob.com, 464, RESELLER
+singularads, 548745, RESELLER
 smaato.com, 1100004890, RESELLER, 07bcf65f187117b4
 smaato.com, 1100040398, RESELLER, 07bcf65f187117b4
 smaato.com, 1100042823, RESELLER, 07bcf65f187117b4
@@ -1509,6 +1510,7 @@ yeahmobi.com,5135535,RESELLER
 yieldlab.net, 2172218, RESELLER
 yieldmo.com, 2807970144171533194, RESELLER
 yieldmo.com, 3036313774475649025, RESELLER
+yieldmo.com, 3591550211052216798, RESELLER, 6a92c77cfc3d2258
 yieldnexus.com, 96204, RESELLER
 ylhglobal.com, 1930587443, RESELLER
 zeta.com,998,RESELLER
