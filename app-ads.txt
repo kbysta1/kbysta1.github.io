@@ -1,3 +1,4 @@
+
 152media.info,152M312,RESELLER
 152media.info,152M324,RESELLER
 9dotsmedia.com, 122262, RESELLER, 45ff185b4c4e857d
@@ -387,6 +388,7 @@ eskimi.com,2020000205,RESELLER
 exchange.admazing.co, AM3, RESELLER
 facebook.com, 229424331556313, RESELLER, c3e20eee3f780d68
 facebook.com, 252815571991948, DIRECT, c3e20eee3f780d68
+fivecdm.com,44139930,DIRECT
 flat-ads.com, 2196901, RESELLER
 flat-ads.com,6,RESELLER
 flat-ads.com,72,RESELLER
@@ -422,6 +424,7 @@ google.com, pub-1690327593216828, DIRECT, f08c47fec0942fa0
 google.com, pub-2247149867882339, RESELLER
 google.com, pub-2247149867882339, RESELLER, f08c47fec0942fa0
 google.com, pub-3357809309522484, RESELLER
+google.com, pub-3435144854791309, DIRECT, f08c47fec0942fa0
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0
 google.com, pub-3990748024667386, RESELLER, f08c47fec0942fa0
 google.com, pub-5174255682271790, DIRECT, f08c47fec0942fa0
