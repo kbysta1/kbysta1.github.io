@@ -32,6 +32,12 @@ img {
   height: 100% !important;
 }
 
+.icon-wrapper {
+  filter: drop-shadow(5px 5px 5px rgba(0, 0, 0, 0.5));
+  margin-bottom: 20px;
+}
+
+
 @media (min-width: 970px) {
   .container {
     width:970px;
@@ -47,3 +53,4 @@ img {
         margin-left:300px;
     }
 }
+
